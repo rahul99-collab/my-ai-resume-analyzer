@@ -27,7 +27,7 @@ Deployment: Vercel / Netlify
 
 ⚡ Getting Started
 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+git clone https://github.com/rahul99-collab/my-ai-resume-analyzer.git
 cd ai-resume-analyzer
 
 2. Install dependencies
@@ -71,7 +71,7 @@ Deploy 🎉
 
 Your app will be live at:
 
-https://your-app-name.vercel.app/
+https://ai-resume-analyzer-git-main-rahul-kumar-sahus-projects-dffccd7f.vercel.app
 
 🔒 Security Note
 
